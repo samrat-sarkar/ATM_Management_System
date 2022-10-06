@@ -408,7 +408,7 @@ def Login():
     Msg0 = StringVar()
     Msg0.set("Enter Your PIN")
     global lable2
-    lable2 = Label(Tkt, textvariable=Msg0, fg='red', font=('Courier', 15, 'bold'))
+    lable2 = Label(Tkt, textvariable=Msg0, fg='black', font=('Courier', 15, 'bold'))
     lable2.pack(pady=1)
     global pin
     pin = StringVar()
