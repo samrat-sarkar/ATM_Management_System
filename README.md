@@ -1,5 +1,7 @@
 # ATM Management System
-> Default PIN = 1234
+**Prerequisite**
+1. SQL SERVER
+2. PYTHON 
 
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/1.png)
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/2.png)
