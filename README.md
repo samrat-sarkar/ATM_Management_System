@@ -1,5 +1,5 @@
 # ATM Management System
-##Prerequisite
+## Prerequisite
 **Database**
 
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/1.png)
