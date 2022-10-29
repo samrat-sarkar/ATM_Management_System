@@ -1,6 +1,7 @@
 # ATM Management System
 ## Prerequisite
 **SQL Database**
+CREATE DATABASE `bank`
 
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/1.png)
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/2.png)
