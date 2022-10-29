@@ -1,9 +1,8 @@
 # ATM Management System
 ## Prerequisite
-> Pre Installed SQL Database
-> Pre Installed Python 
+> Pre-install SQL Database and Pre-install Python 
 
-[Database File](https://samrat-sarkar.github.io/ATM_Management_System/Database.sql)
+[Downnload Database File](https://samrat-sarkar.github.io/ATM_Management_System/Database.sql)
 
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/1.png)
 ![alt text](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/2.png)
