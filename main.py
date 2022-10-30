@@ -33,6 +33,24 @@ Phone_Number = 0
 Email = ''
 # Temp ###################################################
 
+# Delete Temporary Data ##################################
+def Delete_Temp():
+    global My_AC_No
+    My_AC_No = 0
+    global My_IFSC
+    My_IFSC = ''
+    global My_Name
+    My_Name = ''
+    global My_PIN
+    My_PIN = 0
+    global My_Balance
+    My_Balance = 0
+    global Phone_Number
+    Phone_Number = 0
+    global Email
+    Email = ''
+# Delete Temporary Data ####################################
+
 # Request Records ###########################################
 def Request_Records():
     try:
@@ -140,6 +158,7 @@ def Go_to_Home():
 
 def Go_To_Login():
     Tkt.destroy()
+    Delete_Temp()
     StartTK()
     Login()
 # Switch Windows ###########################################
