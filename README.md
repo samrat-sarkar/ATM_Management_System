@@ -59,7 +59,6 @@ pip install mysql-connector-python
 - Cash Deposit
 - Cash Withdrawal
 - PIN Change
-- Transaction History
 
 ## 🖼️ Screenshots
 ### Login Interface
@@ -68,16 +67,16 @@ pip install mysql-connector-python
 ### Main Menu
 ![Main Menu](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/2.png)
 
-### Transaction Screens
+### Balance Check
 ![Transaction Interface](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/3.png)
 
-### Balance Inquiry
+### PIN Management
 ![Balance Check](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/4.png)
 
-### PIN Management
+### Cash Withdrawal
 ![PIN Change](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/5.png)
 
-### Transaction History
+### Cash Deposit
 ![Transaction History](https://samrat-sarkar.github.io/ATM_Management_System/screenshots/6.png)
 
 ## 🛠️ Technical Details
